@@ -4,4 +4,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoReusSavi&layout=compact&langs_count=7&theme=tokyonight"/>
     <br />
 <h2 align="center"> Social Media </h2>
-<a href="https://www.linkedin.com/in/adrianoreussavi/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/adrianoreussavi/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/adrianorsavi/" title="Instagram Profile"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
