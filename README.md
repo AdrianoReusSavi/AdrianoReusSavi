@@ -1,8 +1,21 @@
-<div align="center">
+<p float="left">
+ <img src="https://github.com/adrianoreussavi/adrianoreussavi/blob/main/imgs/" width="300" align="left">
+  <p float="left">
+    <samp>
+      <br>
+      <br>
+      Sobre mim:<br>
+             - Estudante de engenharia de software<br>
+             - desenvolvedor full stack<br>
+      <br>
+      <br>
+      Linguagens:<br>
+          > C#, Java, JS, TypeScript<br>
+      <br>
+      <br>
+      Redes sociais:<br>
+          > <a href="https://www.linkedin.com/in/adrianoreussavi/" title="LinkedIn Profile">LinkedIn</a><br>
+          > <a href="https://www.instagram.com/adrianorsavi/" title="Instagram Profile">Instagram</a><br>
+    </samp>
+  </p>
 </p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianoReusSavi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoReusSavi&layout=compact&langs_count=7&theme=tokyonight"/>
-    <br />
-<h2 align="center"> Social Media </h2>
-<a href="https://www.linkedin.com/in/adrianoreussavi/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/adrianorsavi/" title="Instagram Profile"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
