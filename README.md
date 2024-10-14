@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://github.com/adrianoreussavi/adrianoreussavi/blob/main/imgs/" width="300" align="left">
+ <img src="https://github.com/adrianoreussavi/adrianoreussavi/blob/main/imgs/profile_1.png" width="300" align="left">
   <p float="left">
     <samp>
       <br>
