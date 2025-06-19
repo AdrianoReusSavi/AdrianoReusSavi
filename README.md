@@ -1,21 +1,8 @@
-<p float="left">
- <img src="https://github.com/adrianoreussavi/adrianoreussavi/blob/main/imgs/profile_1.png" width="200" align="left">
-  <p float="left">
-    <samp>
-      <br>
-      <br>
-      Sobre mim:<br>
-             - Estudante de engenharia de software<br>
-             - desenvolvedor full stack<br>
-      <br>
-      <br>
-      Linguagens:<br>
-          > C#, Java, JS, TypeScript<br>
-      <br>
-      <br>
-      Redes sociais:<br>
-          > <a href="https://www.linkedin.com/in/adrianoreussavi/" title="LinkedIn Profile">LinkedIn</a><br>
-          > <a href="https://www.instagram.com/adrianorsavi/" title="Instagram Profile">Instagram</a><br>
-    </samp>
-  </p>
-</p>
+ ##  <div align="center"> 👋 Hi! I’m `@adrianorsavi`, welcome to my `GitHub profile`!</div>
+
+![github-banner-image](imgs/Banner.svg)
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9BDA&center=true&width=435&lines=Work+in+progress" alt="Typing SVG" /></a>
+</div>
